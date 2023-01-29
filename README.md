@@ -1,4 +1,3 @@
-# In-browser Markdown Editor App
 
 ## Table of contents
 
@@ -12,5 +11,5 @@
   - [Useful resources](#useful-resources)
 - [Author's Links](#authors-links)
 
-## Overview
+
 
